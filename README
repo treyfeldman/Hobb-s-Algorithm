@@ -1,0 +1,2 @@
+The file just needs to be run for a demonstration. It runs the algorithm on all pronouns found in the 20 first files of
+the Penn Treebank corpus in nltk.corpus. It proposes an antecedent and compares it to the handmade answer key coref_key.txt.
